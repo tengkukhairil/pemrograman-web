@@ -11,4 +11,4 @@ Model, View, Controller (MVC)
 Framework CodeIgniter (CI)
 Framework Laravel
 Project dari masing-masing materi
-dll
+Hosting ke Server Web
